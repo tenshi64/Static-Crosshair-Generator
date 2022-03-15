@@ -9,4 +9,4 @@ Discord: єℓєνєи#8485
 
 # Screenshots
 Control panel: ![Image1](https://github.com/elefelen/Static-Crosshair-Generator/blob/main/1.PNG)
-Default crosshair: ![Image1](https://github.com/elefelen/Static-Crosshair-Generator/blob/main/2.PNG)
+Default crosshair: ![Image2](https://github.com/elefelen/Static-Crosshair-Generator/blob/main/2.PNG)
