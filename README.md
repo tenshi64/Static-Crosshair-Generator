@@ -8,5 +8,5 @@ Download from [releases](https://github.com/elefelen/Static-Crosshair-Generator/
 Discord: єℓєνєи#8485
 
 # Screenshots
-Control panel: ![Image1](https://github.com/elefelen/Static-Crosshair-Generator/blob/main/1.PNG)
+Control panel: ![Image1](https://github.com/elefelen/Static-Crosshair-Generator/blob/main/1.PNG)<br>
 Default crosshair: ![Image2](https://github.com/elefelen/Static-Crosshair-Generator/blob/main/2.PNG)
