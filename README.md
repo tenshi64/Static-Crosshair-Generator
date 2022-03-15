@@ -1,4 +1,4 @@
-# Static-Crosshair-Generator
+# Static Crosshair Generator
 An application that allows you to use fully customizable crosshair in games that do not have it.
 
 # Download
